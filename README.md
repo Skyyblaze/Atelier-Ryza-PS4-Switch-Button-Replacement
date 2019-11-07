@@ -81,6 +81,6 @@ Special Thanks:
 
 I want to thank the following Steam Users for helping me with this mod in one way or another:
 
-Monterossa
-Uranus Queen
-30705
+- Monterossa
+- Uranus Queen
+- 30705
