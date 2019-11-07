@@ -13,6 +13,7 @@ I simply built onto their work and expanded it for all languages and Nintendo Sw
 Unlike theirs, my mod does not include a X and O swap and also doesn't swap the touch-pad icon for the SHARE button icon for the PS4 version. However my guide will also explain how to get the correct touch-pad and SHARE behavior on PC with a Dualshock 4.
 
 
+
 Necessary Downloads:
 
 Special K 0.9.8: mega.nz/#!UN5BhSCQ!AYetU7JyoDbFyE8eFiKOfqbChMO84NVEKCi_xsAH9aw
