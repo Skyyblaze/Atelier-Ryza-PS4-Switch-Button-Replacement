@@ -8,7 +8,15 @@ You'll need the SpecialK injector for that and we'll be using a specific older v
 
 The texture-mod is based upon the work of Steam User Monterossa from here: https://steamcommunity.com/app/1121560/discussions/0/1696095261011549013/
 
+In this guide I'll explain how to alter the game to either show Playstation 4 Dualshock 4 or Nintendo Switch Pro Controller icons instead of the default XBOX One icons so let's get going! :)
+
+You'll need the SpecialK injector for that and we'll be using a specific older version since the newer ones somewhat cause trouble with certain other things in Atelier Ryza.
+
+The texture-mod is based upon the work of Steam User Monterossa from here: https://steamcommunity.com/app/1121560/discussions/0/1696095261011549013/
+
 I simply built onto their work and expanded it for all languages and Nintendo Switch icons.
+
+Unlike theirs, my mod doesn't swap the touch-pad icon for the SHARE button icon for the PS4 version. However my guide will also explain how to get the correct touch-pad and SHARE behavior on PC with a Dualshock 4.
 
 
 Necessary Downloads:
