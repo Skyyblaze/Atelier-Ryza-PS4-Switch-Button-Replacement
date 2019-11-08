@@ -10,9 +10,6 @@ The texture-mod is based upon the work of Steam User Monterossa from here: https
 
 I simply built onto their work and expanded it for all languages and Nintendo Switch icons.
 
-Unlike theirs, my mod does not include a X and O swap and also doesn't swap the touch-pad icon for the SHARE button icon for the PS4 version. However my guide will also explain how to get the correct touch-pad and SHARE behavior on PC with a Dualshock 4.
-
-
 
 Necessary Downloads:
 
@@ -36,6 +33,10 @@ to
 Fullscreen=true
 
 it might help on your system.
+
+Configurator crashes with Metal Gear sound after game 1.00b update:
+
+The new configurator version doesn't like Special K at all. To work around this rename dxgi.dll to disable Special K, launch the configurator and change the settings you want, then rename dxgi.dll back.
 
 
 Installation:
