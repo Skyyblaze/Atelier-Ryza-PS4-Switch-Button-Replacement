@@ -1,6 +1,6 @@
 # Atelier-Ryza-PS4-Switch-Button-Replacement
 
-General Info:
+# General Info:
 
 In this guide I'll explain how to alter the game to either show Playstation 4 Dualshock 4, or Nintendo Switch Pro Controller icons instead of the default XBOX One icons so let's get going! :)
 
@@ -13,12 +13,12 @@ I simply built onto their work and expanded it for all languages and Nintendo Sw
 Unlike theirs, my mod doesn't swap the touch-pad icon for the SHARE button icon for the PS4 version. However my guide will also explain how to get the correct touch-pad and SHARE behavior on PC with a Dualshock 4.
 
 
-Necessary Downloads:
+# Necessary Downloads:
 
 SpecialK: https://special-k.info/
 
 
-Installation:
+# Installation:
 
 I'll try to make the instructions as simple as possible and step by step.
 
@@ -45,7 +45,7 @@ I'll try to make the instructions as simple as possible and step by step.
 11: Have fun! :D
 
 
-How to make the Dualshock 4 Touchpad work like on a PS4 (Also works with a Dualsense):
+# How to make the Dualshock 4 Touchpad work like on a PS4 (Also works with a Dualsense):
 
 If you are playing with a PS4 controller you might now notice that the game shows the PS4 touchpad icon in a few cases but only half of the touchpad actually works as intended and the SHARE button has the same function as half of the touchpad.
 
@@ -57,12 +57,12 @@ steam://controllerconfig/1121560/1903246374
 
 A new Steam Input window should pop-up letting you preview the configuration. Press Square to apply and save it. When you launch the game now the new config should be loaded.
 
-Warning:
+# Warning:
 
 This won't work if you use DS4Windows or any other Dualshock 4 tool. It's intended for users that use a Dualshock 4 via Steam's native Steam Input implementation.
 
 
-Special Thanks:
+# Special Thanks:
 
 I want to thank the following Steam Users for helping me with this mod in one way or another:
 
