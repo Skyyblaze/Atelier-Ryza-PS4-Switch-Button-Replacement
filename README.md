@@ -36,7 +36,7 @@ I'll try to make the instructions as simple as possible and step by step.
 
 7: Click on File --> Browse Texture Assets --> Injectable Textures
 
-8: A new folder will open, copy only either the Switch or PS4 textures into it, just the .dds files in the last folder
+8: A new folder will open, copy only either the Switch or PS4 textures into it, just the .dds files
 
 9: After that go back to Ryza, exit the game and SpecialK
 
