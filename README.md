@@ -2,15 +2,9 @@
 
 General Info:
 
-In this guide I'll explain how to alter the game to either show Playstation 4 Dualshock 4 or Nintendo Switch Pro Controller icons instead of the default XBOX One icons so let's get going! :)
+In this guide I'll explain how to alter the game to either show Playstation 4 Dualshock 4, or Nintendo Switch Pro Controller icons instead of the default XBOX One icons so let's get going! :)
 
-You'll need the SpecialK injector for that and we'll be using a specific older version since the newer ones somewhat cause trouble with certain other things in Atelier Ryza.
-
-The texture-mod is based upon the work of Steam User Monterossa from here: https://steamcommunity.com/app/1121560/discussions/0/1696095261011549013/
-
-In this guide I'll explain how to alter the game to either show Playstation 4 Dualshock 4 or Nintendo Switch Pro Controller icons instead of the default XBOX One icons so let's get going! :)
-
-You'll need the SpecialK injector for that and we'll be using a specific older version since the newer ones somewhat cause trouble with certain other things in Atelier Ryza.
+We'll use the tool SpecialK to inject the new textures.
 
 The texture-mod is based upon the work of Steam User Monterossa from here: https://steamcommunity.com/app/1121560/discussions/0/1696095261011549013/
 
@@ -21,55 +15,37 @@ Unlike theirs, my mod doesn't swap the touch-pad icon for the SHARE button icon 
 
 Necessary Downloads:
 
-Special K 0.9.8: mega.nz/#!UN5BhSCQ!AYetU7JyoDbFyE8eFiKOfqbChMO84NVEKCi_xsAH9aw
-
-
-Known Issues:
-
-The configurator appears when launching the game:
-
-Due to the game reacting a bit weird to the injector it can happen that the game's configurator appears when launching the game, sometimes multiple times. You can simply click it away with "Cancel" each time and the game will launch.
-
-Game crashes right after launching:
-
-This can also happen on some configurations, in this case go to your dxgi.ini and set
-
-Fullscreen=false
-
-to
-
-Fullscreen=true
-
-it might help on your system.
-
-Configurator crashes with Metal Gear sound after game 1.00b update:
-
-The new configurator version doesn't like Special K at all. To work around this rename dxgi.dll to disable Special K, launch the configurator and change the settings you want, then rename dxgi.dll back.
+SpecialK: https://special-k.info/
 
 
 Installation:
 
 I'll try to make the instructions as simple as possible and step by step.
 
-1: Unpack the Special K injector and my mod to a safe location
+1: Install SpecialK
 
-2: Open your Ryza game folder, you can do so by right-clicking on the game in Steam --> Manage --> Browse Local Files
+2: Run SpecialK
 
-3: Copy
+3: In SpecialK go to Library and launch Ryza
 
-- CEGUI
-- SK_Res
-- dxgi.dll
-- dxgi.ini
+4: SpecialK should initialize as the game starts, press CTRL + SHIFT + Backspace to open the SpecialK overlay
 
-from the Special K download to your Atelier Ryza folder
+5: Click on File --> Install Wrapper DLL
 
-4: Copy the SK_Res folder you wish to use from my mod to the Atelier Ryza folder. You can chose between Playstation 4 Dualshock icons or Nintendo Switch Pro Controller icons.
+6: Click on File --> Initialize Texture Mods
 
-5: Launch the game and enjoy! :D
+7: Click on File --> Browse Texture Assets --> Injectable Textures
+
+8: A new folder will open, copy only either the Switch or PS4 textures into it, just the .dds files in the last folder
+
+9: After that go back to Ryza, exit the game and SpecialK
+
+10: Run the game normally through Steam and things should work
+
+11: Have fun! :D
 
 
-How to make the Dualshock 4 Touchpad work like on a PS4:
+How to make the Dualshock 4 Touchpad work like on a PS4 (Also works with a Dualsense):
 
 If you are playing with a PS4 controller you might now notice that the game shows the PS4 touchpad icon in a few cases but only half of the touchpad actually works as intended and the SHARE button has the same function as half of the touchpad.
 
