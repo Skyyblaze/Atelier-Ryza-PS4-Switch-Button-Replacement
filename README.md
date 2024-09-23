@@ -2,7 +2,7 @@
 
 # General Info:
 
-In this guide I'll explain how to alter the game to either show Playstation 4 Dualshock 4, or Nintendo Switch Pro Controller icons instead of the default XBOX One icons so let's get going! :)
+In this guide I'll explain how to alter the game to either show Playstation 4 Dualshock 4, Playstation 5 Dualsense or Nintendo Switch Pro Controller icons instead of the default XBOX One icons so let's get going! :)
 
 We'll use the tool SpecialK to inject the new textures.
 
